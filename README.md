@@ -5,7 +5,7 @@ Projeto produzido para um bootcamp em parceria com a [Digital Innovation One](ht
 # Descrição do projeto
 Neste projeto, desenvolvemos juntos um jogo da velha utilizando HTML, CSS e Javascript.
 
-Foi incluso a função de mudar aaparência Light / Dark.
+Foi incluso a função de mudar a aparência Light / Dark.
 
 Além de customização:
 - no padrão de cores;
